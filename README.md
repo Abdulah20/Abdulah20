@@ -1,42 +1,41 @@
 
-<!-- ============================================= -->
-<!--       ABDULAH MOHAMED | GITHUB PROFILE       -->
-<!-- ============================================= -->
+<!-- ============================================== -->
+<!--         ABDULAH MOHAMED | GITHUB PROFILE      -->
+<!-- ============================================== -->
 
-<div align="right">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=00BFFF&style=flat-square" alt="Profile Views"/>
-</div>
+</p>
 
 <h1 align="center">
-  Hi there! 👋 I'm Abdulah Mohamed
+  Hi There! 👋 I'm Abdulah Mohamed
 </h1>
 
-<div align="center">
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Mechatronics+Engineer;M.Sc.+Researcher+in+Mechatronics;UAV+Energy+Prediction+%26+Flight+Control;Robotics+%7C+AI+%7C+Simulation;Welcome+to+my+GitHub+Profile!" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Mechatronics+Engineer;M.Sc.+Student+in+Mechatronics;Robotics+%26+Embedded+Systems;UAVs+%26+Engineering+Simulations;Programming+%7C+Automation+%7C+AI;Welcome+to+My+GitHub+Profile!" alt="Typing SVG"/>
   </a>
-</div>
+</p>
 
 <h3 align="center">
-  Mechatronics Engineer | UAV Researcher | Robotics & AI Enthusiast
+  ⚙️ Mechatronics Engineer | 🤖 Robotics Enthusiast | 🚁 UAV Explorer
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-UAV%20Research-00BFFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Field-Mechatronics-008080?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Research-AI%20%26%20Control-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Location-Iraq-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mechatronics-Engineering-0077B5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Robotics-%26_Automation-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Programming-%26_Simulation-6C3483?style=for-the-badge"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -45,358 +44,269 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  I'm <b>Abdulah Mohamed</b>, a Mechatronics Engineer from Iraq,
-  currently pursuing a <b>Master of Science (M.Sc.) in Mechatronics Engineering</b>
-  at Mansoura University, Egypt.
+  Hello! I'm <b>Abdulah Mohamed</b>, a passionate
+  <b>Mechatronics Engineer</b> from Iraq.
 </p>
 
 <p align="center">
-  My academic and research interests lie at the intersection of
-  <b>Mechatronic Systems, Unmanned Aerial Vehicles (UAVs),
-  Artificial Intelligence, Robotics, and Intelligent Control Systems.</b>
+  I enjoy exploring the connection between mechanical engineering,
+  electronics, programming, and intelligent systems.
+  My interests include robotics, automation, embedded systems,
+  unmanned aerial vehicles, and engineering simulation.
 </p>
 
-- 🎓 **M.Sc. in Mechatronics Engineering (In Progress)** — Mansoura University, Egypt.
+- 🎓 **M.Sc. Student in Mechatronics Engineering** — Mansoura University, Egypt.
 - 🎓 **B.Sc. in Mechatronics Engineering** — University of Mosul, Iraq.
-- 🔬 **Current Research:** Intelligent UAV energy prediction and energy-efficient flight control.
-- 🚁 **Research Platform:** DJI Matrice 100-like quadrotor simulation.
-- 🤖 **Interests:** Robotics, autonomous systems, intelligent control, and AI applications in engineering.
-- ⚙️ **Engineering Focus:** Modeling, simulation, system dynamics, propulsion, energy consumption, and optimization.
-- 🐧 **Development Environment:** Ubuntu Linux, ROS 2, PX4 SITL, and Gazebo.
-- 📊 **Research Activities:** Experimental design, telemetry processing, data analysis, model calibration, and validation.
-- 🌱 **Currently Exploring:** Physics-based energy models, machine learning, and energy-aware flight strategies.
-- 🎯 **Long-Term Goal:** Develop intelligent, reliable, and energy-efficient autonomous mechatronic systems.
+- ⚙️ Interested in mechatronic systems, robotics, and automation.
+- 🚁 Enjoy experimenting with UAV simulation environments.
+- 💻 Interested in programming and engineering applications.
+- 🐧 Working with Linux-based development environments.
+- 🤖 Exploring robotics software and intelligent systems.
+- 📊 Enjoy numerical analysis, engineering experiments, and data visualization.
+- 🧩 Passionate about solving practical engineering problems.
+- 🌍 Based in Iraq.
 
 ---
 
-<h2 align="center">🎓 Academic Background</h2>
+<h2 align="center">🎓 Education</h2>
 
 <table align="center">
   <tr>
     <th>Degree</th>
-    <th>Institution</th>
+    <th>University</th>
     <th>Field</th>
-    <th>Status</th>
   </tr>
   <tr>
-    <td>Master of Science (M.Sc.)</td>
-    <td>Mansoura University, Egypt</td>
+    <td>Master of Science (In Progress)</td>
+    <td>Mansoura University 🇪🇬</td>
     <td>Mechatronics Engineering</td>
-    <td>In Progress</td>
   </tr>
   <tr>
-    <td>Bachelor of Science (B.Sc.)</td>
-    <td>University of Mosul, Iraq</td>
+    <td>Bachelor of Science</td>
+    <td>University of Mosul 🇮🇶</td>
     <td>Mechatronics Engineering</td>
-    <td>Completed</td>
   </tr>
 </table>
 
 ---
 
-<h2 align="center">🔬 Master's Research</h2>
+<h2 align="center">🛠️ Technologies & Engineering Tools</h2>
 
-<h3 align="center">
-  An Intelligent Mechatronic Framework for UAV Energy Prediction and Efficient Flight Control
-</h3>
+<h3 align="center">💻 Programming & Computing</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Research-M.Sc.%20Thesis-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Method-Simulation--Based-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Status-Ongoing-yellow?style=flat-square"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,matlab,bash&theme=dark" alt="Programming"/>
 </p>
 
-### 📖 Research Overview
-
-My master's research focuses on developing an intelligent mechatronic framework for understanding, predicting, and improving the energy efficiency of multirotor UAVs.
-
-The research combines:
-
-- UAV flight dynamics and mechatronic modeling.
-- Propulsion systems and electrical power estimation.
-- Physics-based UAV energy consumption models.
-- Simulation-based experiments under varying operating conditions.
-- Real-world flight data analysis and validation.
-- Machine learning for energy prediction.
-- Energy-efficient flight control and optimization strategies.
-
-### 🎯 Research Objectives
-
-1. **Develop an Intelligent Mechatronic Framework**
-   - Integrate UAV dynamics, propulsion, energy estimation, and intelligent prediction.
-
-2. **Improve UAV Energy Prediction**
-   - Study the influence of payload, velocity, altitude, wind, and flight conditions.
-   - Investigate limitations in existing propulsion and power models.
-
-3. **Validate Simulation Against Real Flight Data**
-   - Compare simulation-based power estimates with measurements from real UAV flights.
-
-4. **Investigate AI-Based Prediction**
-   - Explore machine learning methods for UAV power and energy prediction.
-
-5. **Explore Energy-Efficient Flight Control**
-   - Investigate energy-aware flight strategies and optimization.
-
-### 🚁 UAV Research Platform
-
-**Simulation Airframe:** DJI Matrice 100-like Quadcopter
-
-**Simulation and Development Tools:**
-
-- PX4 Autopilot — Software-In-The-Loop (SITL).
-- Gazebo — UAV physics and simulation.
-- ROS 2 Jazzy — Robotic middleware and telemetry integration.
-- QGroundControl — UAV monitoring and flight interaction.
-- Ubuntu Linux — Research and development platform.
-- Python — Telemetry analysis and experimental data processing.
-
-### 📊 Research Progress
-
-- ✅ Established a PX4 SITL, Gazebo, and ROS 2 simulation environment.
-- ✅ Developed and tested a Matrice 100-like UAV simulation workflow.
-- ✅ Integrated simulation telemetry and CSV-based experiment logging.
-- ✅ Conducted initial simulation tests under different payload and flight conditions.
-- ✅ Audited and processed real-world DJI Matrice 100 flight data.
-- ✅ Developed an initial aircraft-level power calibration approach.
-- ✅ Performed preliminary validation against independent real-flight measurements.
-- 🔄 Investigating forward-flight propulsion and aerodynamic power effects.
-- 🔄 Refining physics-based energy prediction.
-- 📌 Planned: Machine learning prediction baseline.
-- 📌 Planned: Energy-aware control and optimization investigation.
-
-> **Research Note:** This work is part of an ongoing M.Sc. research project. Preliminary simulation and validation results are not presented as final thesis outcomes.
-
----
-
-<h2 align="center">🛠️ Languages, Tools & Technologies</h2>
-
-<h3 align="center">💻 Programming & Scientific Computing</h3>
+<h3 align="center">🤖 Robotics & Simulation</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,matlab,bash&theme=dark" alt="Programming Languages"/>
+  <img src="https://img.shields.io/badge/ROS_2-Robotics-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gazebo-Simulation-F58113?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PX4-UAV_Systems-111111?style=for-the-badge"/>
 </p>
 
+<h3 align="center">🐧 Development Environment</h3>
+
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,vscode&theme=dark" alt="Development Tools"/>
+</p>
+
+<h3 align="center">📊 Data Analysis & Scientific Computing</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-</p>
-
-<h3 align="center">🤖 Robotics & UAV Simulation</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ROS_2-Jazzy-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PX4-Autopilot-111111?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Gazebo-Simulation-F58113?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/QGroundControl-UAV_Control-2374AB?style=for-the-badge"/>
-</p>
-
-<h3 align="center">⚙️ Development Tools & Operating Systems</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,vscode,cmake&theme=dark" alt="Development Tools"/>
-</p>
-
-<h3 align="center">🧠 Engineering & Research Domains</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Mechatronics-Engineering-007ACC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/UAV-Flight_Dynamics-009688?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Robotics-Autonomous_Systems-8E44AD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Control_Systems-Modeling-FF5733?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI-Machine_Learning-6C3483?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Energy-Prediction-27AE60?style=for-the-badge"/>
 </p>
 
 ---
 
-<h2 align="center">🚀 Research & Engineering Interests</h2>
+<h2 align="center">⚙️ Engineering Interests</h2>
 
 <table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>🚁 UAV Systems</h3>
-      Flight dynamics, propulsion systems, simulation, and energy efficiency.
-    </td>
-    <td align="center" width="50%">
-      <h3>🤖 Robotics</h3>
-      Robotic systems, autonomous platforms, and ROS-based development.
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h3>🧠 Artificial Intelligence</h3>
-      Machine learning, prediction models, and intelligent engineering systems.
-    </td>
-    <td align="center">
-      <h3>⚙️ Control Engineering</h3>
-      Dynamic system modeling, feedback control, and optimization.
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h3>🔋 Energy Modeling</h3>
-      UAV power consumption, energy prediction, and endurance analysis.
-    </td>
-    <td align="center">
-      <h3>📊 Data Analysis</h3>
-      Experimental datasets, calibration, validation, and scientific computing.
-    </td>
-  </tr>
+<tr>
+<td align="center" width="50%">
+
+### 🤖 Robotics
+
+Robotic systems, automation, and software-based experimentation.
+
+</td>
+<td align="center" width="50%">
+
+### 🚁 UAV Technology
+
+Exploring unmanned aerial vehicles and flight simulation environments.
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 💻 Programming
+
+Engineering programming, numerical computing, and software development.
+
+</td>
+<td align="center">
+
+### 🧠 Artificial Intelligence
+
+Exploring intelligent computing and AI applications in engineering.
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### ⚙️ Mechatronic Systems
+
+Mechanical, electrical, and computational system integration.
+
+</td>
+<td align="center">
+
+### 📊 Engineering Analysis
+
+Scientific computing, numerical experiments, and data visualization.
+
+</td>
+</tr>
 </table>
 
 ---
 
-<h2 align="center">📁 Research & Development Projects</h2>
+<h2 align="center">🔬 Engineering Experiments & Explorations</h2>
 
-### 🚁 1. UAV Energy Prediction and Flight Control Research
+<p align="center">
+  A collection of technical interests, programming exercises,
+  and simulation-based engineering experiments.
+</p>
 
-**Type:** M.Sc. Research Project — Ongoing
+### 🚁 UAV Simulation Experiments
 
-An intelligent mechatronic framework for studying UAV energy consumption and investigating energy-efficient flight control.
+Exploring virtual UAV environments through general flight simulation and software-based engineering experiments.
 
-**Main Areas:**
-- UAV propulsion and energy modeling.
-- Flight simulation and telemetry collection.
-- Real-world data calibration and validation.
-- AI-based energy prediction research.
-- Energy-aware control and optimization.
+**Topics:**
+- Virtual flight environments.
+- UAV modeling and visualization.
+- Simulation testing.
+- Robotics software exploration.
 
-**Technologies:** PX4 SITL, Gazebo, ROS 2 Jazzy, Python, QGroundControl.
+### 🤖 Robotics & Automation Experiments
 
-### ⚙️ 2. DJI Matrice 100-like UAV Simulation Environment
+Hands-on learning and experimentation with robotics development tools and simulation software.
 
-**Type:** Simulation and Research Development
+**Topics:**
+- Robotic software environments.
+- Robot simulation.
+- General automation concepts.
+- Software integration exercises.
 
-A simulation-based quadrotor environment designed to investigate UAV behavior under different operating conditions.
+### 💻 Engineering Programming Experiments
 
-**Implemented and investigated capabilities:**
-- Payload-dependent UAV mass configurations.
-- Flight experiments and telemetry logging.
-- Hover and cruise simulation scenarios.
-- Motor and rotor telemetry monitoring.
-- Wind and flight-parameter experimentation.
-- CSV-based experiment data collection.
+Exploring programming and numerical computing for different engineering applications.
 
-**Technologies:** PX4, Gazebo, ROS 2, Ubuntu, Python.
+**Topics:**
+- Python programming.
+- Numerical calculations.
+- Data processing exercises.
+- Engineering visualization.
+- Problem-solving challenges.
 
-### 📊 3. UAV Flight Data Analysis & Energy Model Validation
+### ⚙️ Mechatronics Explorations
 
-**Type:** Scientific Data Analysis — Ongoing Research
+Practical and virtual experiments related to mechatronic engineering and multidisciplinary system design.
 
-Processing real UAV flight measurements to study electrical power consumption and assess the agreement between simulation-based and measured energy behavior.
-
-**Research Activities:**
-- Battery voltage and current analysis.
-- Electrical power estimation.
-- Energy integration from flight telemetry.
-- Data cleaning and flight-level dataset partitioning.
-- Calibration and independent validation.
-- Residual analysis and model limitation assessment.
-
-**Technologies:** Python, NumPy, Pandas, scientific data analysis.
-
-> Project repository links will be added when the corresponding research code is prepared for public release.
+**Topics:**
+- General mechanical systems.
+- Electrical and electronic engineering concepts.
+- Dynamic system simulation.
+- Engineering software tools.
 
 ---
 
 <h2 align="center">📈 GitHub Statistics</h2>
 
-<div align="center">
-
+<p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-
   <img width="49%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
-</div>
-
-<br/>
+<p align="center">
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+</p>
 
 <h3 align="center">📊 Contribution Activity</h3>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
+</p>
 
 ---
 
-<h2 align="center">💡 Current Learning & Future Directions</h2>
+<h2 align="center">📂 GitHub Repositories</h2>
 
-- Advancing physics-based UAV power consumption modeling.
-- Investigating forward-flight aerodynamic effects.
-- Improving simulation-to-real-data validation.
-- Exploring machine learning for energy prediction.
-- Investigating UAV energy optimization strategies.
-- Strengthening robotics and autonomous systems development.
-- Developing energy-aware mechatronic control approaches.
+<p align="center">
+  Explore my public repositories, programming exercises,
+  engineering experiments, and technical explorations.
+</p>
+
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+  </a>
+</p>
 
 ---
 
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-  I am interested in research discussions, engineering knowledge exchange,
-  and collaboration related to Mechatronics, Robotics, UAVs, AI,
-  and Intelligent Control Systems.
+  I enjoy connecting with engineers, developers, students,
+  and technology enthusiasts around the world.
 </p>
 
 <p align="center">
-
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="mailto:YOUR_EMAIL@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
 </p>
 
 ---
 
 <h3 align="center">
-  ⚡ "Engineering intelligence into real-world systems."
+  ⚡ "Keep Learning, Keep Building, Keep Exploring."
 </h3>
 
 <p align="center">
-  <b>Thanks for visiting my GitHub profile!</b>
+  <b>Thanks for visiting my GitHub profile! 🚀</b>
 </p>
 
 <p align="center">
-  🚁 Mechatronics | Robotics | Artificial Intelligence | UAV Research
+  Made with ❤️ and a passion for engineering.
 </p>
 
-<!-- ============================================= -->
-<!-- IMPORTANT CONFIGURATION                       -->
-<!-- ============================================= -->
-
 <!--
-Before publishing:
+PROFILE CONFIGURATION:
 
-1. Replace YOUR_GITHUB_USERNAME with your GitHub username.
-2. Replace YOUR_LINKEDIN_USERNAME with your LinkedIn username.
-3. Replace YOUR_EMAIL@example.com with your public contact email.
-4. Add links only for repositories that actually exist.
-5. Review listed technical skills before publishing.
-6. Keep research status updated as your M.Sc. progresses.
+Replace:
+YOUR_GITHUB_USERNAME
+YOUR_LINKEDIN_USERNAME
+YOUR_EMAIL@example.com
 
-To activate the GitHub profile README:
-Create a PUBLIC repository with exactly the same
-name as your GitHub username, and save this content
-as README.md in the repository root.
+Review technical skills before publication.
 
-GitHub statistics use third-party services and
-may occasionally experience availability issues.
+Keep private research materials separate
+from public GitHub repositories.
 -->
