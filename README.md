@@ -4,7 +4,7 @@
 <!-- ============================================== -->
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=00BFFF&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Abdulah20&label=Profile+Views&color=00BFFF&style=flat-square" alt="Profile Views"/>
 </p>
 
 <h1 align="center">
